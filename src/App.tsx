@@ -120,7 +120,7 @@ function App() {
             </div>
           </div>
           <h1 className="text-4xl font-bold text-white mb-2">
-            Multi-Image Converter
+            Imageon
           </h1>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
             Convert multiple images to different formats or combine them into a PDF. 
